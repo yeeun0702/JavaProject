@@ -1,15 +1,15 @@
-### 📌 계산기 필수과제 제출 링크 : https://github.com/yeeun0702/TIL/pull/2
+## 계산기 필수과제 제출 링크 : https://github.com/yeeun0702/TIL/pull/2
 
 💡 Lv 1. 클래스 없이 기본적인 연산을 수행할 수 있는 계산기 만들기
 
 💡 Lv 2. 클래스를 적용해 기본적인 연산을 수행할 수 있는 계산기 만들기
 
 
-### 📌 계산기 도전과제 제출 링크 : https://github.com/yeeun0702/TIL/pull/4
+## 계산기 도전과제 제출 링크 : https://github.com/yeeun0702/TIL/pull/4
 
 💡 Lv 3. Enum, 제네릭, 람다 & 스트림을 이해한 계산기 만들기
 
-### 📌 키오스크 필수, 도전과제 제출 링크 : https://github.com/yeeun0702/TIL/pull/6
+### 키오스크 필수, 도전과제 제출 링크 : https://github.com/yeeun0702/TIL/pull/6
 
 💡 필수 Lv 1. 기본적인 키오스크를 프로그래밍해보자
 
